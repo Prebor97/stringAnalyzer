@@ -1,4 +1,4 @@
-#  Profile API — `/me` Endpoint
+#  String Analyzer API
 
 This is a simple Spring Boot application that exposes several endpoints for analyzing a string.
 
