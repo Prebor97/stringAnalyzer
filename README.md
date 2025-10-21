@@ -153,10 +153,10 @@ DELETE /strings/{string_value}
 Success Response (204 No Content): (Empty response body)
 
 Error Responses:
-404 Not Found: String does not exist in the system
+404 Not Found: String does not exist in the database
 
 ### Author: Tamarakro Prebor
-### Stack: Java
+### Stack: Java(springboot)
 ### Mail: prebstamar@gmail.com
 
 # Thank you
